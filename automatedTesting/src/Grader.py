@@ -53,3 +53,6 @@ class Grader:
 	
 	def grade(self):
 		raise NotImplementedError("Please Implement this method")
+
+	def shivam(self):
+		print("hello")
