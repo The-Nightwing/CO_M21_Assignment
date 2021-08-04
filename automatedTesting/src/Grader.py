@@ -56,3 +56,6 @@ class Grader:
 
 	def shivam(self):
 		print("hello")
+		
+	def navidha(self):
+		print('njwbxkw')
